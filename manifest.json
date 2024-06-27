@@ -1,0 +1,30 @@
+{
+"manifest_version": 3,
+    "name": "YouTube Mixer",
+    "version": "1.0.0.0",
+    "description": "__MSG_extensionDescription__",
+    "author": "Eiernase",
+    "homepage_url": "https://github.com/Eiernase/YouTubeMixChrome",
+    "default_locale": "en",
+    "options_page": "options.html",
+    "action": {
+        "default_title": "__MSG_actionTitle__",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "images/icon-16.png",
+        "32": "images/icon-32.png",
+        "48": "images/icon-48.png",
+        "96": "images/icon-96.png",
+        "128": "images/icon-128.png"
+    },
+    "permissions": [
+        "storage",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "service_worker.js"
+    },
+    "update_url": "https://kueheaufdsl.de/updates3.xml",
+    "key": "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm07FPHKGE+kP5dV+pRfOKp3pDvB0MSIcA1uwFT1Wh9zNYKO5cCT7YdeZ3zXgBaw/1KMJ+pACEeXWSSh3adrULietCf/wz4Pph7QP7KVnOVDO2dLaZEkjPr17UwKecTRNNTuou+sW4xakKZuOp9oYCrVMV02sdHry3S0QPSBb5lTPfXB8VVI9ohfUxe8lwl7Lg5vJzn2+0Nx1Ps7qYzzvZISb4mvUOBCU/Ns28Xv0VoAX6Dk9opvCZ8TCnMRvtSMZkZwO8nvetJgHskCdvAotBfR5sx8MXXoEoFUaknCQDsh/Achl22fOuVCBP3z8+ZCcts55P4z8WlMUeOizyAUCtAgMBAAECggEABU9j/skbqtrEqtSg2rrXU/CqEsZfcVQZeGSFU9NXSsxbMse788UdxKOW4w89lH2TkjTkLfl36vLElCDuUgiCkXW08P0XnZCGpiY2dBPrbLnsgUOcfU/u7kdrGazXmPRkgSRm9JLDlBkckDA/hM0yek4JWnHY+e7cyGo2cu5Gc70nvS4E+gK04ysU32WRoy/m2dOBx75ulu6Zsz3iUCTfxYGZqNpBMSR6VD4HOBK7AMqJhLNaS6qT3n3ooFCQwBL3e+MroHxKLyTAeoAtk+UdiAZTBaP0uPy+Un6nuGhCa2cfg2En8NKwh5JKc91nDBVRNUAExczZJVbiRGiMoeP0mQKBgQDYNaquspOJrrQNJMD+bTFQhR4Ky3Wjlkh3nN7wJMN0Br94k/wT4bHM29atyWU+oud7NsJ9hIgFQIOpBEGG8BoCC/S+IWuGfIJQBjcxhrgCHs1675QaglUBvNlBAveNzxO1Iq+KwxZ7wAxZHxP4HOHpM8SngcPZzWooPWrUZ+uZmQKBgQDFh3Jzw1SeMKpw2S0Qzz04Ih+0Nmsz9fnPklMbHRtL7RbCPI0Bjy0iSNxm5LQKumvUIFol3bSwRpMcUKJ+XFgDHcLarfsvVZkoHZnzGCJnLIiexloLMdQLvpaxGbI624Ae/vIaUTDvM3LxH5HWWMrWkgE41qYsYD2EWoDP9Z6UNQKBgBVrs75dKOriKSqIMqrCbLlahvBw2fXcJM/c9eV67vZm2L98geQCX1g5i5pqMqKzBxYZBcnjwIosqx6qskdJMHp1bskLjJila0+8XemFPGPRY3BDnjvGH9/tMuUTAy3Ej2JJznSEAY0/KLoHrzXMvsEZBOnHnHzOsi7MbvIeXaQ5AoGALX/dpTzBKQ8cs5HTB6Q0/dEebGx8lSN7v4x9CCnUN9ENBQDdmhZY1yThX/IeZro6TEqHeWFwVYpsKIGKbIDo5Q7d63FYArc86DipVY2hnxJrBee6pgl8RphILdM1cslM4dbn/ZfmJbM8Lr6O4UjisDpBfc4zyNUCVpJiSYTSWmECgYEAxbS7m1ZlYtol0R948Fu+q0t3c1sVfunZMVJq3gSSdHS38c/xC2tDiF168ix2bPuJGHwzqk/Y1vlkeGJjzwQF63XvQz310ogxK2GgTNKB8isOYoUwdF3Jz+puVCdn2ZvbmHsfMbOr7ufkm4BNfyJNOQEb44EhhGGXGMbbXmWCDlU="
+}
