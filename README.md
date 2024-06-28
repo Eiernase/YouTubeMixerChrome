@@ -44,4 +44,4 @@ For Microsoft Edge the same procedure as a manual Google Chrome install applies:
 
 ## Firefox
 
-A Firefox port is not yet available.
+A Firefox port is available [in the Firefox Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/youtube-mixer/), also found in [this repository](https://github.com/Eiernase/YouTubeMixerFirefox). Also works on Firefox for Android.
